@@ -16,4 +16,5 @@ Conecciones según ejemplo de librería LiquidCrystal.h que viene con Arduino:
  
  VO = VEE = Contrast Control
  
+ 
  ![LCD1602](LCD16x2_Pins.png)
